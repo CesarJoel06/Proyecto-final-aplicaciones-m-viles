@@ -1,0 +1,72 @@
+com.cesar.securityquotes.app-lifecycle-runtime-ktx-release-0 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/05cb4eb6b13f9c74615721946dabf094/transformed/lifecycle-runtime-ktx-release/res
+com.cesar.securityquotes.app-lifecycle-viewmodel-ktx-2.8.3-1 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/0d5824557a5bcf59b87aada127125634/transformed/lifecycle-viewmodel-ktx-2.8.3/res
+com.cesar.securityquotes.app-activity-compose-1.9.1-2 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/17c0fea14dbdb1616b902ad99b8de8ae/transformed/activity-compose-1.9.1/res
+com.cesar.securityquotes.app-savedstate-ktx-1.2.1-3 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/197b05794205b75e8a9eaa91264391f1/transformed/savedstate-ktx-1.2.1/res
+com.cesar.securityquotes.app-foundation-release-4 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/1d0e5c1acde81a0d7b5d5f4b5a338e85/transformed/foundation-release/res
+com.cesar.securityquotes.app-drawerlayout-1.1.1-5 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/23fdac97c8a1b89b6a8540d714f533c5/transformed/drawerlayout-1.1.1/res
+com.cesar.securityquotes.app-viewpager2-1.0.0-6 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/2474f58c61ee84d8b4802cd5cd498a2b/transformed/viewpager2-1.0.0/res
+com.cesar.securityquotes.app-material-icons-core-release-7 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/2934d847e06559f74ee16e83dedd369f/transformed/material-icons-core-release/res
+com.cesar.securityquotes.app-fragment-1.3.6-8 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/2ac47b2ff8caf70bf0b74c3e647eedce/transformed/fragment-1.3.6/res
+com.cesar.securityquotes.app-navigation-common-ktx-2.7.7-9 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/2ff27abedfa1634ea3fc947cf28d57fc/transformed/navigation-common-ktx-2.7.7/res
+com.cesar.securityquotes.app-lifecycle-runtime-release-10 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/33d6547d8f9be91e82210fd0a956c332/transformed/lifecycle-runtime-release/res
+com.cesar.securityquotes.app-material-1.12.0-11 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/355e1512e653554254f2bfbb857220f2/transformed/material-1.12.0/res
+com.cesar.securityquotes.app-core-runtime-2.2.0-12 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/380b26288731f76795cbff9cf5336857/transformed/core-runtime-2.2.0/res
+com.cesar.securityquotes.app-animation-core-release-13 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/4264beb9ca7fd2cab335b891eec9b1c6/transformed/animation-core-release/res
+com.cesar.securityquotes.app-activity-ktx-1.9.1-14 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/44b8a2664914b1f57f875c4b11e24a12/transformed/activity-ktx-1.9.1/res
+com.cesar.securityquotes.app-foundation-layout-release-15 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/452dcc3d8d348d01541f16170a4e6a09/transformed/foundation-layout-release/res
+com.cesar.securityquotes.app-lifecycle-livedata-2.8.3-16 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/48c4bfdcc1cec7994688c45979fcc6e4/transformed/lifecycle-livedata-2.8.3/res
+com.cesar.securityquotes.app-coordinatorlayout-1.1.0-17 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/4b892a667e8fc703344a9b7a2fa2536a/transformed/coordinatorlayout-1.1.0/res
+com.cesar.securityquotes.app-runtime-saveable-release-18 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/4ba67e3af154d43083dbe67cdd74de99/transformed/runtime-saveable-release/res
+com.cesar.securityquotes.app-lifecycle-process-2.8.3-19 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/56c87ced3ac64a34cade4d1bb65d0c15/transformed/lifecycle-process-2.8.3/res
+com.cesar.securityquotes.app-ui-tooling-data-release-20 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/59c9a098e458f5143af5201394b41cf5/transformed/ui-tooling-data-release/res
+com.cesar.securityquotes.app-ui-tooling-preview-release-21 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/5dea59631b69387bca085122d9fd502b/transformed/ui-tooling-preview-release/res
+com.cesar.securityquotes.app-navigation-runtime-ktx-2.7.7-22 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/639f8131ded2236629312faa36340e18/transformed/navigation-runtime-ktx-2.7.7/res
+com.cesar.securityquotes.app-transition-1.5.0-23 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/649539eb74442d7dc329cfc4e1025e6a/transformed/transition-1.5.0/res
+com.cesar.securityquotes.app-coil-base-2.7.0-24 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/6558c71c459aab26f06f9990d4fa8ae5/transformed/coil-base-2.7.0/res
+com.cesar.securityquotes.app-startup-runtime-1.1.1-25 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/661500654ddee87e6043a17e4db9108f/transformed/startup-runtime-1.1.1/res
+com.cesar.securityquotes.app-emoji2-1.3.0-26 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/69c26267e674cf4d9d2a7286a927b866/transformed/emoji2-1.3.0/res
+com.cesar.securityquotes.app-activity-1.9.1-27 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/6b55f72ad781167526f7148be445e563/transformed/activity-1.9.1/res
+com.cesar.securityquotes.app-ui-release-28 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/6bde208890495654ef4aeae4e0228d51/transformed/ui-release/res
+com.cesar.securityquotes.app-lifecycle-livedata-core-ktx-2.8.3-29 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/715a8f6bef6d41e8404ce3aa1186a7ad/transformed/lifecycle-livedata-core-ktx-2.8.3/res
+com.cesar.securityquotes.app-lifecycle-runtime-compose-release-30 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/73aff2d53cccd823c5e681f351082c40/transformed/lifecycle-runtime-compose-release/res
+com.cesar.securityquotes.app-lifecycle-viewmodel-savedstate-2.8.3-31 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/760168468edf2ba87dff93103923f4ab/transformed/lifecycle-viewmodel-savedstate-2.8.3/res
+com.cesar.securityquotes.app-core-ktx-1.13.1-32 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/76ef16b9c3d01256f132f5ae34168bd0/transformed/core-ktx-1.13.1/res
+com.cesar.securityquotes.app-ui-test-manifest-1.6.8-33 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/79c3ccf2d8038dba47f29df6055c56da/transformed/ui-test-manifest-1.6.8/res
+com.cesar.securityquotes.app-lifecycle-viewmodel-compose-release-34 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/7bccfd3e870cd6be47c60aeb6733ab1b/transformed/lifecycle-viewmodel-compose-release/res
+com.cesar.securityquotes.app-navigation-compose-2.7.7-35 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/7cdf22d12d3ec9d28694e59b02e76757/transformed/navigation-compose-2.7.7/res
+com.cesar.securityquotes.app-emoji2-views-helper-1.3.0-36 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/8251ee115c732a836c7fbadf7800cf69/transformed/emoji2-views-helper-1.3.0/res
+com.cesar.securityquotes.app-annotation-experimental-1.4.0-37 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/905dc40912f51f73af3a5d411627a156/transformed/annotation-experimental-1.4.0/res
+com.cesar.securityquotes.app-navigation-runtime-2.7.7-38 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/9b8258e949302297f727aeb40bc42bb7/transformed/navigation-runtime-2.7.7/res
+com.cesar.securityquotes.app-navigation-common-2.7.7-39 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/9d28947f1da34e37eafd39b484d9ff19/transformed/navigation-common-2.7.7/res
+com.cesar.securityquotes.app-datastore-release-40 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/9d8ffa51418649e94bd9536c460914c6/transformed/datastore-release/res
+com.cesar.securityquotes.app-lifecycle-livedata-core-2.8.3-41 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/9fc51d3c2e7c862ca36eaed839041007/transformed/lifecycle-livedata-core-2.8.3/res
+com.cesar.securityquotes.app-material-ripple-release-42 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/a24917dde635eabdc2cd0883235bcdd7/transformed/material-ripple-release/res
+com.cesar.securityquotes.app-ui-geometry-release-43 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/a2ca5b9c4f7545101096a28a3f20a054/transformed/ui-geometry-release/res
+com.cesar.securityquotes.app-appcompat-1.6.1-44 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/a92cdc0806beed3d5fe49cc718039b3a/transformed/appcompat-1.6.1/res
+com.cesar.securityquotes.app-constraintlayout-2.0.1-45 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/a94b4f1262074f03a190543e33c2cfd9/transformed/constraintlayout-2.0.1/res
+com.cesar.securityquotes.app-material3-release-46 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/ab70e62aedaff78a5d105490f9ddc9d9/transformed/material3-release/res
+com.cesar.securityquotes.app-datastore-core-release-47 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/ab98d3c114e88fdde21caa58f25285b2/transformed/datastore-core-release/res
+com.cesar.securityquotes.app-core-1.13.1-48 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b675e550b0e89e54ba4c716cfdf37c85/transformed/core-1.13.1/res
+com.cesar.securityquotes.app-customview-poolingcontainer-1.0.0-49 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b7eda6dbc7978ddb5cc9f86ec7b6a234/transformed/customview-poolingcontainer-1.0.0/res
+com.cesar.securityquotes.app-ui-util-release-50 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b817e6118c893b61cf8f09243c80ce82/transformed/ui-util-release/res
+com.cesar.securityquotes.app-ui-graphics-release-51 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b9e3ebdbadd45c0d12e7abc002a15e1c/transformed/ui-graphics-release/res
+com.cesar.securityquotes.app-ui-text-release-52 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/bd9cde0f13094fc0fccd387d41850e35/transformed/ui-text-release/res
+com.cesar.securityquotes.app-appcompat-resources-1.6.1-53 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/bef183616dd771fe57f09d6f5709c9aa/transformed/appcompat-resources-1.6.1/res
+com.cesar.securityquotes.app-datastore-preferences-release-54 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/cb449ab0ca50e0f5e79787f9c3880213/transformed/datastore-preferences-release/res
+com.cesar.securityquotes.app-ui-unit-release-55 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/cdc56609d3691c1a1050e237ba8b9f76/transformed/ui-unit-release/res
+com.cesar.securityquotes.app-material-release-56 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/cee7393ff7afcd7d3f5d02628c92fc00/transformed/material-release/res
+com.cesar.securityquotes.app-material-icons-extended-release-57 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/cfb27a1505e00bfa93af09202c504cc5/transformed/material-icons-extended-release/res
+com.cesar.securityquotes.app-lifecycle-viewmodel-release-58 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d67c20738b048f0797c5404d80d9c0cb/transformed/lifecycle-viewmodel-release/res
+com.cesar.securityquotes.app-recyclerview-1.1.0-59 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d8ffea7463fbcf2a01bac718dd6d1755/transformed/recyclerview-1.1.0/res
+com.cesar.securityquotes.app-profileinstaller-1.3.1-60 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/res
+com.cesar.securityquotes.app-animation-release-61 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/dc6db3ca42f64bdaa4584425e20888bd/transformed/animation-release/res
+com.cesar.securityquotes.app-ui-tooling-release-62 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/e8ca8fc47a4a9638aad3797f964dd3e3/transformed/ui-tooling-release/res
+com.cesar.securityquotes.app-savedstate-1.2.1-63 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/f37e8be5646e61fddfe9f7501cd00897/transformed/savedstate-1.2.1/res
+com.cesar.securityquotes.app-runtime-release-64 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/f9eaa9b9573934ed4980659435c83e9d/transformed/runtime-release/res
+com.cesar.securityquotes.app-cardview-1.0.0-65 /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/feaf3b2425d8d92abf0db28b318ce1eb/transformed/cardview-1.0.0/res
+com.cesar.securityquotes.app-resValues-66 /Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/build/generated/res/resValues/debug
+com.cesar.securityquotes.app-packageDebugResources-67 /Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.cesar.securityquotes.app-packageDebugResources-68 /Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.cesar.securityquotes.app-debug-69 /Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.cesar.securityquotes.app-debug-70 /Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/debug/res
+com.cesar.securityquotes.app-main-71 /Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/res

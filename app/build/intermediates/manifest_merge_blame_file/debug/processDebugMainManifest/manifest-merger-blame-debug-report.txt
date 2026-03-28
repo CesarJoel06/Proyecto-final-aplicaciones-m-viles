@@ -1,0 +1,155 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cesar.securityquotes"
+4    android:versionCode="3"
+5    android:versionName="2.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:2:5-67
+11-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:2:22-64
+12    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+12-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:3:5-76
+12-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:3:22-73
+13    <uses-permission
+13-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:4:5-107
+14        android:name="android.permission.READ_EXTERNAL_STORAGE"
+14-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:4:22-77
+15        android:maxSdkVersion="32" />
+15-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:4:78-104
+16
+17    <permission
+17-->[androidx.core:core:1.13.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b675e550b0e89e54ba4c716cfdf37c85/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+18        android:name="com.cesar.securityquotes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.13.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b675e550b0e89e54ba4c716cfdf37c85/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.13.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b675e550b0e89e54ba4c716cfdf37c85/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.cesar.securityquotes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.13.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b675e550b0e89e54ba4c716cfdf37c85/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.13.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b675e550b0e89e54ba4c716cfdf37c85/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:6:5-23:19
+24        android:allowBackup="true"
+24-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:7:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.13.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/b675e550b0e89e54ba4c716cfdf37c85/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:icon="@mipmap/ic_launcher"
+28-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:8:9-43
+29        android:label="SecurityQuotes"
+29-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:9:9-39
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:10:9-54
+31        android:supportsRtl="true"
+31-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:11:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.SecurityQuotes"
+33-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:12:9-52
+34        android:usesCleartextTraffic="true" >
+34-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:13:9-44
+35        <activity
+35-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:14:9-22:20
+36            android:name="com.cesar.securityquotes.MainActivity"
+36-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:15:13-41
+37            android:exported="true"
+37-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:16:13-36
+38            android:theme="@style/Theme.SecurityQuotes" >
+38-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:17:13-56
+39            <intent-filter>
+39-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:18:13-21:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:19:17-69
+40-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:19:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:20:17-77
+42-->/Users/cesarjhoel/Downloads/SecurityQuotesRemast-app 2/app/src/main/AndroidManifest.xml:20:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->[androidx.compose.ui:ui-tooling-android:1.6.8] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/e8ca8fc47a4a9638aad3797f964dd3e3/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+46            android:name="androidx.compose.ui.tooling.PreviewActivity"
+46-->[androidx.compose.ui:ui-tooling-android:1.6.8] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/e8ca8fc47a4a9638aad3797f964dd3e3/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+47            android:exported="true" />
+47-->[androidx.compose.ui:ui-tooling-android:1.6.8] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/e8ca8fc47a4a9638aad3797f964dd3e3/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+48        <activity
+48-->[androidx.compose.ui:ui-test-manifest:1.6.8] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/79c3ccf2d8038dba47f29df6055c56da/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:23:9-25:39
+49            android:name="androidx.activity.ComponentActivity"
+49-->[androidx.compose.ui:ui-test-manifest:1.6.8] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/79c3ccf2d8038dba47f29df6055c56da/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:24:13-63
+50            android:exported="true" />
+50-->[androidx.compose.ui:ui-test-manifest:1.6.8] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/79c3ccf2d8038dba47f29df6055c56da/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:25:13-36
+51
+52        <provider
+52-->[androidx.emoji2:emoji2:1.3.0] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/69c26267e674cf4d9d2a7286a927b866/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.3.0] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/69c26267e674cf4d9d2a7286a927b866/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+54            android:authorities="com.cesar.securityquotes.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.3.0] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/69c26267e674cf4d9d2a7286a927b866/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.3.0] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/69c26267e674cf4d9d2a7286a927b866/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.3.0] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/69c26267e674cf4d9d2a7286a927b866/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.3.0] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/69c26267e674cf4d9d2a7286a927b866/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.3.0] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/69c26267e674cf4d9d2a7286a927b866/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.8.3] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/56c87ced3ac64a34cade4d1bb65d0c15/transformed/lifecycle-process-2.8.3/AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.8.3] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/56c87ced3ac64a34cade4d1bb65d0c15/transformed/lifecycle-process-2.8.3/AndroidManifest.xml:30:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.8.3] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/56c87ced3ac64a34cade4d1bb65d0c15/transformed/lifecycle-process-2.8.3/AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+63                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+63-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+64                android:value="androidx.startup" />
+64-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+65        </provider>
+66
+67        <receiver
+67-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+68            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+68-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+69            android:directBootAware="false"
+69-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+70            android:enabled="true"
+70-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+71            android:exported="true"
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+72            android:permission="android.permission.DUMP" >
+72-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+73            <intent-filter>
+73-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+74                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+75            </intent-filter>
+76            <intent-filter>
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+77                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+78            </intent-filter>
+79            <intent-filter>
+79-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+80                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+81            </intent-filter>
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+83                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/cesarjhoel/.gradle/caches/9.0.0/transforms/d9477dde8e5c775a502f114bdbf50f56/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+84            </intent-filter>
+85        </receiver>
+86    </application>
+87
+88</manifest>
